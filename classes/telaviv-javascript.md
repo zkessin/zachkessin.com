@@ -4,7 +4,7 @@ layout: default
 
 # Find more bugs with Property Based Testing
 
-I will be leading a one day workshop on Property Based Testing with JSVerify in Stockholm SE on Tuesday June 9.
+I will be leading a one day workshop on Property Based Testing with JSVerify at WeWork in Tel Aviv on May 31
 
 You will learn:
 
@@ -20,7 +20,7 @@ You will need:
 * Vagrant
 * Knowledge of JavaScript
  
-The cost will be $999 Per Person
+The cost will be $999 + MAM Per Person
 
 The class is limited to 12 people
 
