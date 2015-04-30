@@ -1,18 +1,33 @@
 ---
 layout: default
-title: Webinar
+title: Webinars
 ---
 
-Interested in How Property Based Testing Can work for you? I am giving
-a webinar on how PBT works and how best to exploit it in an Erlang
-Project.
 
 
-# Upcoming Webinar Dates:
+<div class="home">
 
-## May 12 - 1:00 PM EDT 
+  <h1 class="page-heading">Upcoming Webinars</h1>
 
-## May 13 - 11:00 AM CET
+  <table class="rwd-table">
+    <tr>
+      <td>Webinars Title</td>
+      <td>Region</td>
+      <td>Date</td>
+    </tr>
+    {% for class in site.webinar %}
+    <tr>
+      <td>{{class.title}}</td>
+      <td>{{class.region}}</td>  
+      <td>{{class.date}}</td>
+      <td><a class="post-link" href="{{ class.url | prepend: site.baseurl }}">More Information</a></td>
+    {%endfor%}
+  </table>  
 
 
-<iframe src="https://madmimi.com/signups/141642/iframe" scrolling="no" frameborder="0" height="512" style="max-width: 800px; width: 100%;"></iframe>
+</div>
+
+
+
+
+
