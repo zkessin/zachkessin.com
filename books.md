@@ -19,8 +19,8 @@ title: Books
     <tr>
       <td><a class="post-link" href="{{ book.url | prepend: site.baseurl }}">{{book.title}}</a></td>
       <td>{{book.sample_chapter}}</td>	
-      <td><a href="{{book.buy_button}}">Buy - ${{book.price}}</a></td>
-      <td><a href="{{book.group_buy_button}}">Buy Site Licence - ${{book.site_price}}</a></td>	
+      <td><a href="{{book.buy_button}}">Buy - $ {{book.price}}</a></td>
+      <td><a href="{{book.group_buy_button}}">Buy Site Licence - $ {{book.site_price}}</a></td>	
       <td><a class="post-link" href="{{ book.url | prepend: site.baseurl }}">More Information</a></td>
     </tr>
     {%endfor%}
