@@ -20,7 +20,7 @@ general trouble shooting.
     <section class="third lift plan-tier" onclick="location.href='#';">
 
       <h4>Solo</h4>
-      <h5><sup class="superscript">$</sup><span class="plan-price">1500</span><sub> /mo</sub></h5>
+      <h5><sup class="superscript">$</sup><span class="plan-price">1500</span><sub> /month</sub></h5>
 
 
       <ul>
@@ -36,7 +36,7 @@ general trouble shooting.
 
       <h6>Most popular</h6>
       <h4>Team</h4>
-      <h5><sup class="superscript">$</sup><span class="plan-price">3,000</span><sub> /mo</sub></h5>
+      <h5><sup class="superscript">$</sup><span class="plan-price">3,000</span><sub> /month</sub></h5>
 
 
       <ul>
@@ -50,7 +50,7 @@ general trouble shooting.
     <section class="third lift plan-tier" onclick="location.href='#';">
 
       <h4>Agency</h4>
-      <h5><sup class="superscript">$</sup><span class="plan-price">6,000</span><sub> /mo</sub></h5>
+      <h5><sup class="superscript">$</sup><span class="plan-price">6,000</span><sub> /month</sub></h5>
 
 
       <ul>
