@@ -12,7 +12,7 @@ title: Books
       <th>Book Title</th>
       <th>Sample Chapter</th>
       <th>Buy</th>
-      <tdh>Site Licence</th>
+      <th>Site Licence</th>
 
     </tr>
     {% for book in site.books %}
