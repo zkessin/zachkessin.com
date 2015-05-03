@@ -4,12 +4,12 @@ title: Erlang QuickCheck
 region: Europe
 time: 11:00 am
 timezone: CET
-date: "2015-06-09"
+date: "2015-05-013"
 ---
 
 # Free Testing Webinar
 
-## {{page.time}} {{page.timezone}} - {{page.date}}
+## 11:00 am CET - 09 
 
 ## Ready to Level Up your Test Skills?
 
