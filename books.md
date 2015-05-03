@@ -9,10 +9,10 @@ title: Books
 
   <table class="rwd-table">
     <tr>
-      <td>Book Title</td>
-      <td>Sample Chapter</td>
-      <td>Buy</td>
-      <td>Site Licence</td>
+      <th>Book Title</th>
+      <th>Sample Chapter</th>
+      <th>Buy</th>
+      <tdh>Site Licence</th>
 
     </tr>
     {% for book in site.books %}
