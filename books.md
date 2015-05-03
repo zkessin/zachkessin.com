@@ -6,7 +6,6 @@ title: Books
 
 <div class="home">
 
-  <h1 class="page-heading">Books</h1>
 
   <table class="rwd-table">
     <tr>
@@ -18,7 +17,7 @@ title: Books
     </tr>
     {% for book in site.books %}
     <tr>
-      <td>{{book.title}}</td>
+      <td><a class="post-link" href="{{ book.url | prepend: site.baseurl }}">{{book.title}}</a></td>
       <td>{{book.sample_chapter}}</td>	
       <td><a href="{{book.buy_button}}">Buy - ${{book.price}}</a></td>
       <td><a href="{{book.group_buy_button}}">Buy Site Licence - ${{book.site_price}}</a></td>	
@@ -28,3 +27,7 @@ title: Books
 
 
 </div>
+
+All books are DRM Free and ship in PDF Format
+
+Site Licences allow you to share the book with up to 100 members of your team on your company server, dropbox, google drive or similar service
