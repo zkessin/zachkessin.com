@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<!--layout webinar-->
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    
+    <div class="page-content">
+      <div class="wrapper">
+        {% case page.webinar                      %}
+        {% when "erlang-quickcheck"               %}
+        {% include erlang-quickcheck-webinar.html %}
+
+        {% when "javascript-quickcheck"           %}
+        {% include js-quickcheck.html             %}
+
+        {% when "erlang-types"                    %}
+        {% include erlang-types.html              %}
+        {% endcase                                %}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
