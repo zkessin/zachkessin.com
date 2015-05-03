@@ -69,7 +69,7 @@ background: #e7f2f0;
 clear: both;
 width: 100%;
 height: auto;
-padding: 60px 7.5% 60px;
+
 display: block;
 }
 
@@ -148,6 +148,7 @@ vertical-align: top;
 font-size: 2.5em;
 font-weight: 200;
 letter-spacing: -3px;
+padding: 2px;
 }
 
 .plan-tier sub {
