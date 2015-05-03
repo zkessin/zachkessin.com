@@ -34,13 +34,13 @@ general trouble shooting.
 
     <section class="third lift plan-tier callout" onclick="location.href='#';">
 
-      <h6>Most popular</h6>
+      <h6>Best Value</h6>
       <h4>Team</h4>
       <h5><sup class="superscript">$</sup><span class="plan-price">3,000</span><sub> /month</sub></h5>
 
 
       <ul>
-<li>Up to <strong>2</strong>Project</li>
+<li>Up to <strong>2</strong> Projects</li>
 <li>Up to <strong>3</strong> Contacts</li>
 <li><strong>10 Hours / Month </strong></li>
 </ul>
