@@ -1,6 +1,6 @@
 ---
 layout: default
-extra_css: /css/plans.css
+extra_css: "/css/plans.css"
 title: Coaching
 ---
 
