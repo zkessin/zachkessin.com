@@ -1,6 +1,7 @@
 $(function (){
     $("button.signup")
-	.button()
+	.button({"label":"Claim My Spot"})
+        
         .click(function() {
 	    $("div#signup_form").dialog().show()
 
