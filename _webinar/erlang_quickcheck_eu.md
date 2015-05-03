@@ -7,9 +7,9 @@ timezone: CET
 date: "2015-05-013"
 ---
 
-# Free Testing Webinar
+# Free Erlang Testing Webinar
 
-## 11:00 am CET - 09 
+## 11:00 am CET - 09 May 2015
 
 ## Ready to Level Up your Test Skills?
 

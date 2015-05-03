@@ -7,7 +7,7 @@ time: 1:00 pm
 date: "2015-05-12"
 ---
 
-# Free Testing Webinar
+# Free Erlang Testing Webinar
 
 ## 1:00 pm EDT  12 May 2015
 
