@@ -55,7 +55,7 @@ general trouble shooting.
 
       <ul>
 <li>Up to <strong>5</strong> Projects</li>
-<li>Up to <strong>7</strong> Team Members</li>
+<li>Up to <strong>7</strong> Contacts</li>
 <li><strong>25 Hours / Month </strong></li>
 
 </ul>
