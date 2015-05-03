@@ -11,9 +11,10 @@ title: Webinars
 
   <table class="rwd-table">
     <tr>
-      <td>Webinars Title</td>
-      <td>Region</td>
-      <td>Date</td>
+      <th>Webinars Title</th>
+      <th>Region</th>
+      <th>Date</th>
+      <th>Time</th>
     </tr>
     {% for class in site.webinar %}
     <tr>
