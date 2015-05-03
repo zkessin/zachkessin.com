@@ -27,3 +27,9 @@ collections:
     defaults:
       values:
         layout: page
+  books:
+    output: true
+    permalink: /books:path/
+    defaults:
+      values:
+        layout: page
