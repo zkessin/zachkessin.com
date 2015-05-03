@@ -8,6 +8,7 @@ date: "2015-06-09"
 ---
 
 # Free Testing Webinar
+
 ## Ready to Level Up your Test Skills?
 
 You are in the right place! Property Based testing with QuickCheck
