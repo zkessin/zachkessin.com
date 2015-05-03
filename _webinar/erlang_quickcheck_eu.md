@@ -14,6 +14,7 @@ will let you find more bugs with less test code than traditional unit testing!
 > Property Based Tests found more than 200 faults in AUTOSAR Basic Software, including more than 100 inconsistencies in the standard itself.
 > (Source Quiviq)
 
+<button class='signup'>
 
 ## During this Free Webinar you will learn...
 
@@ -21,7 +22,8 @@ will let you find more bugs with less test code than traditional unit testing!
 * How To generate data for your tests
 * How To Test your software vs a Model
 * How To Test your software vs an external project
- 
+
+<button class='signup'> 
 
 Unit tests have become a standard part of development processes in the
 last few years, but they are limited by the creativity of the
@@ -36,4 +38,7 @@ less code.
 
 
 
+<div id="signup_form">
 <iframe src="https://madmimi.com/signups/141642/iframe" scrolling="no" frameborder="0" height="513" style="max-width: 800px; width: 100%;"></iframe>
+</div>
+<script src="/js/signup.js"></script>
