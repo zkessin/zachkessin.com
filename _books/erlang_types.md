@@ -3,7 +3,7 @@ layout: book
 title: Understanding Erlang Types
 buy_button: https://erlang-quickcheck.dpdcart.com/cart/buy?product_id=106021&product_price_id=111897&quantity=1&use_cart=0&gateway=twocheckout
 group_buy_button: https://erlang-quickcheck.dpdcart.com/cart/buy?product_id=106021&product_price_id=111897&quantity=1&use_cart=0&gateway=twocheckout
-sample_chapter: /books/04-tagged_typles.html 
+sample_chapter: /books/04-tagged_tuples.html 
 price: 39
 site_price: 399
 ---
