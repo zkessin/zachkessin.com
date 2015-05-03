@@ -1,5 +1,5 @@
 ---
-layout: Blank
+layout: default
 title: Coaching
 ---
 
