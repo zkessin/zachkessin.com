@@ -41,4 +41,3 @@ less code.
 <div id="signup_form">
 <iframe src="https://madmimi.com/signups/141642/iframe" scrolling="no" frameborder="0" height="513" style="max-width: 800px; width: 100%;"></iframe>
 </div>
-<script src="/js/signup.js"></script>
