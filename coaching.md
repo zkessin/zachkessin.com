@@ -20,7 +20,7 @@ general trouble shooting.
     <section class="third lift plan-tier" onclick="location.href='#';">
 
       <h4>Solo</h4>
-      <h5><sup class="superscript">$</sup><span class="plan-price">1500</span><sub> /month</sub></h5>
+      <h5><sup class="superscript">$</sup><span class="plan-price">1,500</span><sub> /month</sub></h5>
 
 
       <ul>
@@ -54,8 +54,8 @@ general trouble shooting.
 
 
       <ul>
-<li><strong>5</strong> Projects</li>
-<li><strong>7</strong> Team Members</li>
+<li>Up to <strong>5</strong> Projects</li>
+<li>Up to <strong>7</strong> Team Members</li>
 <li><strong>25 Hours / Month </strong></li>
 
 </ul>
