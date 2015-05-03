@@ -16,13 +16,13 @@ title: Books
       <td>Site Licence</td>
 
     </tr>
-    {% for class in site.book %}
+    {% for book in site.books %}
     <tr>
-      <td>{{class.title}}</td>
-      <td>{{class.sample_chapter}}</td>	
-      <td>{{class.buy_button}}</td>
-      <td>{{class.group_buy_button}}</td>	
-      <td><a class="post-link" href="{{ class.url | prepend: site.baseurl }}">More Information</a></td>
+      <td>{{book.title}}</td>
+      <td>{{book.sample_chapter}}</td>	
+      <td>{{book.buy_button}}</td>
+      <td>{{book.group_buy_button}}</td>	
+      <td><a class="post-link" href="{{ book.url | prepend: site.baseurl }}">More Information</a></td>
     {%endfor%}
   </table>  
 
