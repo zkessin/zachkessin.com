@@ -9,7 +9,7 @@ date: "2015-06-09"
 
 # Free Testing Webinar
 
-## {{time}} {{timezone}} - {{date}}
+## {{page.time}} {{page.timezone}} - {{page.date}}
 
 ## Ready to Level Up your Test Skills?
 
