@@ -20,8 +20,8 @@ title: Books
     <tr>
       <td>{{book.title}}</td>
       <td>{{book.sample_chapter}}</td>	
-      <td>{{book.buy_button}}</td>
-      <td>{{book.group_buy_button}}</td>	
+      <td><a href="{{book.buy_button}}">Buy - ${{book.price}}</a></td>
+      <td><a href="{{book.group_buy_button}}">Buy Site Licence - ${{book.site_price}}</a></td>	
       <td><a class="post-link" href="{{ book.url | prepend: site.baseurl }}">More Information</a></td>
     {%endfor%}
   </table>  

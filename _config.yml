@@ -33,3 +33,5 @@ collections:
     defaults:
       values:
         layout: book
+        price: 39
+	site_price: 399
