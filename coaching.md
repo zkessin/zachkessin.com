@@ -3,7 +3,7 @@ layout: blank
 title: Coaching
 ---
 
-
+<div class="wrapper">
 
 IF you want to get started with Erlang, WebMachine, Riak_Core, or
 QuickCheck and you just want a bit of help to figure how how to get
@@ -11,7 +11,7 @@ everything put together then I can help.
 
 I can aid you in setting up your system, testing, deployment and
 general trouble shooting. 
-
+</div>
 
   <section class="layer plans">
   <section>
@@ -149,12 +149,5 @@ To see if this makes sense lets setup a call
 </script></form>
 </div>
 
-Some Terms and conditions apply
+## Some Terms and conditions apply
 
-
-<form action='https://www.2checkout.com/checkout/purchase' method='post'>
-  <input type='hidden' name='sid' value='202487840'>
-  <input type='hidden' name='quantity' value='1'>
-  <input type='hidden' name='product_id' value='4'>
-  <input name='submit' type='submit' value='Buy' >
-</form>
