@@ -1,4 +1,5 @@
 ---
+layout: book
 title: Testing Erlang With QuickCheck
 buy_button:       https://erlang-quickcheck.dpdcart.com/cart/buy?product_id=103822&product_price_id=109522&quantity=1&use_cart=0&gateway=twocheckout
 group_buy_button: https://erlang-quickcheck.dpdcart.com/cart/buy?product_id=103895&product_price_id=109600&quantity=1&use_cart=0&gateway=twocheckout
