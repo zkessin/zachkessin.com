@@ -20,6 +20,7 @@ title: Webinars
       <td>{{class.title}}</td>
       <td>{{class.region}}</td>  
       <td>{{class.date}}</td>
+      <td>{{class.time}} {{class.timezone}}</td>
       <td><a class="post-link" href="{{ class.url | prepend: site.baseurl }}">More Information</a></td>
     {%endfor%}
   </table>  

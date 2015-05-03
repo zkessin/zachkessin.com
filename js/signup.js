@@ -4,7 +4,10 @@ $(function (){
         
         .click(function() {
 	    $("div#signup_form").dialog({
-		modal: true
+		modal		: true,
+		title		: false,
+		width		: 450,
+		closeOnEscape	: false
 	
 	    }).show()
 

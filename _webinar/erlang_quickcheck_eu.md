@@ -2,6 +2,8 @@
 layout: default
 title: Erlang QuickCheck
 region: Europe
+time: 11:00 am
+timezone: CET
 date: "2015-06-09"
 ---
 
@@ -36,7 +38,7 @@ There is a well developed set of tools for doing this, QuickCheck,
 Triq and PropEr will allow you to do just that and find more bugs in
 less code.
 
-
+<button class='signup'> 
 
 <div id="signup_form">
 <iframe src="https://madmimi.com/signups/141642/iframe" scrolling="no" frameborder="0" height="513" style="max-width: 800px; width: 100%;"></iframe>
