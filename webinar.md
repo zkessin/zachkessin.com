@@ -11,7 +11,7 @@ title: Webinars
 
   <table class="rwd-table">
     <tr>
-      <th>Webinars Title</th>
+      <th>Subject</th>
       <th>Region</th>
       <th>Date</th>
       <th>Time</th>

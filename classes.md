@@ -11,9 +11,9 @@ title: Classes
 
   <table class="rwd-table">
     <tr>
-      <td>Class Title</td>
-      <td>Location</td>
-      <td>Date</td>
+      <th>Class Title</th>
+      <th>Location</th>
+      <th>Date</th>
     </tr>
     {% assign classes = site.classes | sort: 'date'%}
     {% for class in classes %}
