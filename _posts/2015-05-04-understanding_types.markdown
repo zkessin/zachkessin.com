@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Types"
+title: "Understanding Types in Modern Langauges"
 date: "2015-05-04 15:54:35 +0300"
 ---
 
