@@ -16,13 +16,14 @@ title: Webinars
       <th>Date</th>
       <th>Time</th>
     </tr>
-    {% for class in site.webinar |sort:date%}
+    {% assign webinars = site.webinar | sort: 'date'%}
+    {% for webinar in webinars%}
     <tr>
-      <td>{{class.title}}</td>
-      <td>{{class.region}}</td>  
-      <td>{{class.date}}</td>
-      <td>{{class.time}} {{class.timezone}}</td>
-      <td><a class="post-link" href="{{ class.url | prepend: site.baseurl }}">More Information</a></td>
+      <td>{{webinar.title}}</td>
+      <td>{{webinar.region}}</td>  
+      <td>{{webinar.date}}</td>
+      <td>{{webinar.time}} {{webinar.timezone}}</td>
+      <td><a class="post-link" href="{{ webinar.url | prepend: site.baseurl }}">More Information</a></td>
     {%endfor%}
   </table>  
 
