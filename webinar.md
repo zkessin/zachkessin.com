@@ -16,7 +16,7 @@ title: Webinars
       <th>Date</th>
       <th>Time</th>
     </tr>
-    {% for class in site.webinar %}
+    {% for class in site.webinar |sort:date%}
     <tr>
       <td>{{class.title}}</td>
       <td>{{class.region}}</td>  

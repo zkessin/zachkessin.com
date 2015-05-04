@@ -15,7 +15,7 @@ title: Classes
       <td>Location</td>
       <td>Date</td>
     </tr>
-    {% for class in site.classes %}
+    {% for class in site.classes|sort: 'date' %}
     <tr>
       <td>{{class.title}}</td>
       <td>{{class.location}}</td>
