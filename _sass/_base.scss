@@ -203,17 +203,54 @@ pre {
     }
 }
 
-input[type=submit]{
-   padding			: 5px 15px;
-   background			: #FF0909; 
-   color			: white;
-   border			: 0 none;
-   cursor			: pointer;
-   -webkit-border-radius	: 5px;
-   border-radius		: 5px; 
 
-}
 
 div#signup_form{
    display: none;
 }
+
+.cta_button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffc477), color-stop(1, #fb9e25) );
+	background:-moz-linear-gradient( center top, #ffc477 5%, #fb9e25 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25');
+	background-color:#ffc477;
+	-webkit-border-top-left-radius:35px;
+	-moz-border-radius-topleft:35px;
+	border-top-left-radius:35px;
+	-webkit-border-top-right-radius:35px;
+	-moz-border-radius-topright:35px;
+	border-top-right-radius:35px;
+	-webkit-border-bottom-right-radius:35px;
+	-moz-border-radius-bottomright:35px;
+	border-bottom-right-radius:35px;
+	-webkit-border-bottom-left-radius:35px;
+	-moz-border-radius-bottomleft:35px;
+	border-bottom-left-radius:35px;
+	text-indent:0px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	font-style:normal;
+	height:65px;
+	line-height:65px;
+	width:131px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 5px #cc9f52;
+}
+.cta_button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fb9e25), color-stop(1, #ffc477) );
+	background:-moz-linear-gradient( center top, #fb9e25 5%, #ffc477 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477');
+	background-color:#fb9e25;
+}.cta_button:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
