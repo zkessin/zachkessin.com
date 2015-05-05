@@ -4,6 +4,7 @@ title: Classes
 ---
 
 
+Sometimes a Full day in Person workshop is the ideal way to get familar with a new technology! Join us for a workshop in your city about Property Based Testing in JavaScript or Erlang
 
 <div class="home">
 
