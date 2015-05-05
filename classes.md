@@ -27,3 +27,5 @@ title: Classes
 
 
 </div>
+
+<iframe src="https://madmimi.com/signups/142346/iframe" scrolling="no" frameborder="0" height="619" style="max-width: 800px; width: 100%;"></iframe>

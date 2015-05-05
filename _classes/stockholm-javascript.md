@@ -33,5 +33,5 @@ The class is limited to 12 people
   <input type='hidden' name='product_id' value='5'>
   <label>Number of People</label>
   <input name='quantity' type='text' size='5' value="1"><br/>
-  <input name='submit' type='submit' class="cta_button" value='Sign up Now'>
+  <input name='submit' type='submit' class="small_cta_button" value='Sign up Now'>
 </form>
