@@ -14,6 +14,10 @@ I can aid you in setting up your system, testing, deployment and
 general trouble shooting. 
 </div>
 
+To see if this makes sense fill out this form and I will get in touch
+
+<iframe src="https://madmimi.com/signups/142344/iframe" scrolling="no" frameborder="0" height="725" style="max-width: 800px; width: 100%;"></iframe>
+
   <section class="layer plans">
   <section>
 
@@ -68,9 +72,6 @@ general trouble shooting.
 
 
 
-To see if this makes sense fill out this form and I will get in touch
-
-<iframe src="https://madmimi.com/signups/142344/iframe" scrolling="no" frameborder="0" height="725" style="max-width: 800px; width: 100%;"></iframe>
 
 ## Some Terms and conditions apply
 
