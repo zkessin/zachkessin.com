@@ -22,6 +22,7 @@ title: Classes
       <td>{{class.location}}</td>
       <td>{{class.date}}</td>
       <td><a class="post-link" href="{{ class.url | prepend: site.baseurl }}">More Information</a></td>
+      </tr>
     {%endfor%}
   </table>  
 
