@@ -8,7 +8,7 @@ Sometimes a Full day in Person workshop is the ideal way to get familar with a n
 
 <div class="home">
 
-  <h1 class="page-heading">Upcoming Classes</h1>
+  <h1 class="page-heading">Upcoming Classes & Workshops</h1>
 
   <table class="rwd-table">
     <tr>
