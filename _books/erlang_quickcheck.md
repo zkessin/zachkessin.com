@@ -3,7 +3,7 @@ layout: book
 title: Testing Erlang With QuickCheck
 buy_button:       https://erlang-quickcheck.dpdcart.com/cart/buy?product_id=103822&product_price_id=109522&quantity=1&use_cart=0&gateway=twocheckout
 group_buy_button: https://erlang-quickcheck.dpdcart.com/cart/buy?product_id=103895&product_price_id=109600&quantity=1&use_cart=0&gateway=twocheckout
-sample_chapter: /books/05-shrinking.html
+sample_chapter_form_id:  142489
 price: 39
 site_price: 399 
 ---
