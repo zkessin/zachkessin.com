@@ -37,3 +37,5 @@ In erlang you can have the function return _{ok, Value}_ or _{error,
 undefined}_. In this case the function returns 2 things that have very
 different types, and if the not found case is not handled it will
 result in a type error.
+
+If you find this interesting checkout the book *Understanding Erlang Types* http://zachkessin.com/books/erlang_types/
