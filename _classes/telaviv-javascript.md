@@ -30,7 +30,7 @@ The class is limited to 12 people
 <form action='https://www.2checkout.com/checkout/purchase' method='post'>
   <input type='hidden' name='sid' value='202487840'>
   <input type='hidden' name='quantity' value='1'>
-  <input type='hidden' name='product_id' value='5'>
+  <input type='hidden' name='product_id' value='6'>
   <label>Number of People</label>
 
   <input name='quantity' type='text' size='5' value="1"><br/>
