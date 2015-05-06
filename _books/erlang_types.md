@@ -24,3 +24,9 @@ It will guide you threw running dialyzer and understanding what it is
 trying to tell you about your code. It will also explain many of the
 errors that are produced by dialyzer but which may be hard to
 understand.
+
+It will show you how to construct your own type system for an Erlang project.
+
+Right now the book is a work in progress, If you buy today you will
+get access to the book now, but don't worry, you will get updates as
+they happen!

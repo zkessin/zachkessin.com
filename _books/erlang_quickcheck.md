@@ -37,7 +37,6 @@ other limits.
 * Bonus Chapter: How to generate HTML from QuickCheck
 * Bonus Chapter: Testing REST APIs
 
-Introductory Price $39
 
 Right now the book is a work in progress, If you buy today you will
 get access to the book now, but don't worry, you will get updates as
