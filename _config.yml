@@ -17,7 +17,7 @@ markdown: kramdown
 collections:
   targets:
     output: true
-    permalink: /targets/:path/
+    permalink: /goal/:path/
     defaults:
       values:
         layout: page
