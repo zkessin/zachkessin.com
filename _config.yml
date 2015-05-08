@@ -15,6 +15,12 @@ markdown: kramdown
 
 
 collections:
+  targets:
+    output: true
+    permalink: /targets/:path/
+    defaults:
+      values:
+        layout: page
   webinar:
     output: true
     permalink: /webinar/:path/
