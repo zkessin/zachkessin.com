@@ -27,5 +27,5 @@ randomly generate inputs or sequences of events, so that the test can
 find those cases that might not act correctly. 
 
 If you want to know more about QuickCheck I have a book on it
-http://zachkessin.com/books/erlang_quickcheck/ and offer coaching to
+[Testing Erlang With QuickCheck](http://zachkessin.com/books/erlang_quickcheck/) and offer coaching to
 get people started. I will also explain more in future blog posts.
