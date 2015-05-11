@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to test our code"
+title: "How to test Code"
 date: "Mon May 11 12:51:17 IDT 2015"
 ---
 
