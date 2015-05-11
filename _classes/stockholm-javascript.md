@@ -25,7 +25,7 @@ You will need:
  
 The cost will be $999 Per Person
 
-The class is limited to 12 people
+The class is limited in size
 
 <form action='https://www.2checkout.com/checkout/purchase' method='post'>
   <input type='hidden' name='sid' value='202487840'>
