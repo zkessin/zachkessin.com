@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
    If you want to enhance your development talk to me, I can
    help you with architecture, testing, development culture and best practices
 
+   A product of Finch Software Ltd
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zachkessin.com" # the base hostname & protocol for your site
 twitter_username: zkessin
