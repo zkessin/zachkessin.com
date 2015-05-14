@@ -35,12 +35,21 @@ You will learn How to:
 The cost will be <del>1400&euro;</del> 1000&euro; Per Person (Group rates available for 3 or more people)
 
 The class is limited in size
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="CNALST5JLJYHS">
-<input type="image" src="https://www.paypalobjects.com/en_US/DE/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="hidden" name="hosted_button_id" value="7V4BP8QXECT5N">
+<table>
+<tr><td><input type="hidden" name="on0" value="Students">Students</td></tr><tr><td><select name="os0">
+	<option value="1 Student">1 Student &euro; 1,000.00 EUR</option>
+	<option value="2 Students">2 Students &euro; 2,000.00 EUR</option>
+	<option value="3 Students">3 Students &euro; 2,700.00 EUR</option>
+	<option value="4 Students">4 Students &euro; 3,600.00 EUR</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="EUR">
+<input type="image" src="https://www.paypalobjects.com/en_US/IL/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+y
 
 *The class will be taught in English*
