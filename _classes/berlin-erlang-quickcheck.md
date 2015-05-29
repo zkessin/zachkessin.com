@@ -7,7 +7,7 @@ date: "2015-06-29"
 
 # Learn to use QuickCheck to develop bullet proof code
 
-## 2 Day Workshop
+## 2 Day Workshop 29 - 30 June 2015
 
 QuickCheck is a powerful tool for testing code, it will find bugs in
 code that would probably never have been found otherwise, and reduce
@@ -32,15 +32,16 @@ You will learn How to:
 * Test Finite State machines
 * Test HTTP APIs
 
-The cost will be <del>1400&euro;</del> 1000&euro; Per Person (Group rates available for 3 or more people)
+The cost will be <del>1400&euro;</del> 999&euro; Per Person (Group rates available for 3 or more people, please email)
 
 The class is limited in size
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="CNALST5JLJYHS">
-<input type="image" src="https://www.paypalobjects.com/en_US/DE/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="hidden" name="hosted_button_id" value="7V4BP8QXECT5N">
+<input type="image" src="https://www.paypalobjects.com/en_US/IL/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 *The class will be taught in English*
