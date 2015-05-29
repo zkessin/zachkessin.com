@@ -14,7 +14,6 @@ actually enjoyable.
 However many people are afraid of Erlang, so now I am happy to offer
 coaching, training and development around Erlang!
 
-
 If you want to find out what I can do for you, please give me a call on skype:
 
 
